@@ -8,4 +8,4 @@ https://www.canva.com/design/DAHB3Lsc9Mo/Lh4Q0jVrY9Z0s0OwBM3usg/edit?utm_content
 ## PRIMEIRA AULA SOBRE EXCEL - FUNÇÃO PROCV
 [balancete_receitA ELLEN (1).xlsx](https://github.com/user-attachments/files/25808358/balancete_receitA.ELLEN.1.xlsx)
 ## Segunda AULA SOBRE EXCEL - FUNÇÃO somase e Cont.se
-https://github.com/ellenbrackn/Fonte-de-informa-o-e-banco-de-dados/blob/main/README.md
+](https://github.com/ellenbrackn/Fonte-de-informa-o-e-banco-de-dados/blob/main/ellen_excel13_03.xlsx)
