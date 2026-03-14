@@ -5,7 +5,6 @@ apresentação foi realizada com o software canva e com o kahoot, formando uma a
 https://www.canva.com/design/DAHB3Lsc9Mo/Lh4Q0jVrY9Z0s0OwBM3usg/edit?utm_content=DAHB3Lsc9Mo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 <img width="1199" height="670" alt="image" src="https://github.com/user-attachments/assets/0af66583-0e21-4458-b239-23148792406c" /> 
 <img width="456" height="816" alt="image" src="https://github.com/user-attachments/assets/54c63e2b-9b4f-4071-aff4-d9e1c4004957" />
-blob:https://web.whatsapp.com/c75a22dd-5d54-4c56-8656-1ca8f8ea735c
 ## PRIMEIRA AULA SOBRE EXCEL - FUNÇÃO PROCV
 [balancete_receitA ELLEN (1).xlsx](https://github.com/user-attachments/files/25808358/balancete_receitA.ELLEN.1.xlsx)
 ## Segunda AULA SOBRE EXCEL - FUNÇÃO somase e Cont.se
