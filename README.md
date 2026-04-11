@@ -35,8 +35,10 @@ CONT.SE
 # Parte 2
 
 Inserir gráfico dinâmico em nova aba 
+![468e8ceb-3823-4395-9725-19f506da60e5](https://github.com/user-attachments/assets/55062149-f54a-4b6d-b545-8ec45a85757d)
 
 Marcar secretária e totais pagos 
+![49cb6841-bab8-4a7e-8e61-70dd0481f215](https://github.com/user-attachments/assets/a5367c2e-d1e9-4848-b6e3-b6916f847357)
 
 
 Despesa por Fornecedor/ Credor 
