@@ -49,13 +49,31 @@ Coluna (F) adiciona Mês
 Função =mes(intervalo) 
 
 # Aula Fontes de Dados Informática
-09/04
+09/04 e 10/04
 
 Fonte de dados
 https://repositorio.seade.gov.br/dataset/educacao-do-ensino-superior
 
 
 ## Qual a quantidade de pessoas de cada gênero por grau acadêmico?
+![62696e89-b883-4649-aa09-53e2aa02421a](https://github.com/user-attachments/assets/a0c41a02-0449-4211-9262-03fb2aa12d0a)
+
+## Quantidade de pessoas por gênero em cada ano?  
+![f6966a34-d1ae-4e70-8d20-2b69d3781feb](https://github.com/user-attachments/assets/d7c65d4e-b576-418d-a85f-2f0a45faabf3)
+
+## Qual a modalidade de ensino mais comum? 
+![1899b268-d27a-4680-9650-d0ac27f86e4b](https://github.com/user-attachments/assets/2c94f510-fb90-4bb9-9782-547366e2bb1f)
+
+## Qual a modalidade de ensino mais comum? 
+![d424bad0-6d8f-4f57-a507-e661a38111af](https://github.com/user-attachments/assets/c67eac97-e288-4dd7-ac46-1c988106b91e)
+utilizamos as funções: SOMA, MÁXIMO, CORRESP E ÍNDICE 
+
+ 
+
+
+
+
+
 
 
 
