@@ -11,7 +11,7 @@ https://www.canva.com/design/DAHB3Lsc9Mo/Lh4Q0jVrY9Z0s0OwBM3usg/edit?utm_content
 ](https://github.com/ellenbrackn/Fonte-de-informa-o-e-banco-de-dados/blob/main/ellen_excel13_03.xlsx)
 
 # Parte 1
-
+Aula 13/03
 TOTAL PAGO 
 
 SOMASE  
@@ -37,3 +37,23 @@ CONT.SE
 Inserir gráfico dinâmico em nova aba 
 
 Marcar secretária e totais pagos 
+
+
+Despesa por Fornecedor/ Credor 
+
+
+Coluna (F) adiciona Mês 
+
+Função =mes(intervalo) 
+
+# Aula Fontes de Dados Informática
+09/04
+
+Fonte de dados
+https://repositorio.seade.gov.br/dataset/educacao-do-ensino-superior
+
+
+## Qual a quantidade de pessoas de cada gênero por grau acadêmico?
+
+
+
