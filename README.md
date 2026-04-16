@@ -31,7 +31,7 @@ CONT.SE
 
 =CONT.SE(intervalo; critérios) 
 
-# Parte 2
+## Parte 2
 
 Inserir gráfico dinâmico em nova aba 
 ![468e8ceb-3823-4395-9725-19f506da60e5](https://github.com/user-attachments/assets/55062149-f54a-4b6d-b545-8ec45a85757d)
@@ -67,7 +67,7 @@ https://repositorio.seade.gov.br/dataset/educacao-do-ensino-superior
 ![d424bad0-6d8f-4f57-a507-e661a38111af](https://github.com/user-attachments/assets/c67eac97-e288-4dd7-ac46-1c988106b91e)
 utilizamos as funções: SOMA, MÁXIMO, CORRESP E ÍNDICE 
 
-# Escolha de uma fonte de dados e elaboração de 5 perguntas 
+## Escolha de uma fonte de dados e elaboração de 5 perguntas 
 
 Fonte de dados 
 https://dadosabertos.sp.gov.br/dataset/eventos-de-sinistro
