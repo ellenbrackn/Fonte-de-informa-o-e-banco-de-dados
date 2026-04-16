@@ -71,11 +71,11 @@ utilizamos as funções: SOMA, MÁXIMO, CORRESP E ÍNDICE
 
 Fonte de dados 
 https://dadosabertos.sp.gov.br/dataset/eventos-de-sinistro
-Agosto de 2025
+08/2025
 
 <img width="903" height="321" alt="8665f8dd-3828-43c4-bbc2-b74ed92c56cd" src="https://github.com/user-attachments/assets/04e0cc93-fb66-4319-bd06-94b25e4f59c2" />
 <img width="874" height="710" alt="c6416217-0a24-4300-8e6c-f89e4d46135c" src="https://github.com/user-attachments/assets/098e76b0-0a5d-4062-9ab5-f9931ca07f3e" />
-
+Funções utilizadas – PROCV – CONT.SE - CONT.SES 
 
 
 
