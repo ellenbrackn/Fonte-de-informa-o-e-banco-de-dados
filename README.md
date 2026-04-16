@@ -47,6 +47,10 @@ Coluna (F) adiciona Mês
 
 Função =mes(intervalo) 
 
+# Certificado Curso Pythin Fundamental I 
+<img width="895" height="609" alt="2ca4ece5-0903-4c44-a78f-9e92c8b35d81" src="https://github.com/user-attachments/assets/e02da570-bab5-499f-a80c-2d98d954e267" />
+
+
 # Aula Fontes de Dados Informática
 09/04 e 10/04
 
