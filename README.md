@@ -67,7 +67,15 @@ https://repositorio.seade.gov.br/dataset/educacao-do-ensino-superior
 ![d424bad0-6d8f-4f57-a507-e661a38111af](https://github.com/user-attachments/assets/c67eac97-e288-4dd7-ac46-1c988106b91e)
 utilizamos as funções: SOMA, MÁXIMO, CORRESP E ÍNDICE 
 
- 
+# Escolha de uma fonte de dados e elaboração de 5 perguntas 
+
+Fonte de dados 
+https://dadosabertos.sp.gov.br/dataset/eventos-de-sinistro
+Agosto de 2025
+
+<img width="903" height="321" alt="8665f8dd-3828-43c4-bbc2-b74ed92c56cd" src="https://github.com/user-attachments/assets/04e0cc93-fb66-4319-bd06-94b25e4f59c2" />
+<img width="874" height="710" alt="c6416217-0a24-4300-8e6c-f89e4d46135c" src="https://github.com/user-attachments/assets/098e76b0-0a5d-4062-9ab5-f9931ca07f3e" />
+
 
 
 
