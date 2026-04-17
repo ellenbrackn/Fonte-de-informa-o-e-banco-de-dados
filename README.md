@@ -29,6 +29,8 @@ Link da Planilha: https://docs.google.com/spreadsheets/d/17rmi1crS4jDAAqQfCHkDT8
 # Segunda AULA SOBRE EXCEL - FUNÇÃO Somase e Cont.se
 (https://github.com/ellenbrackn/Fonte-de-informa-o-e-banco-de-dados/blob/main/ellen_excel13_03.xlsx)
 
+Link da Planilha: https://docs.google.com/spreadsheets/d/1ZpljOuOGfOKVB07FGDrGjGRKQM4DByy-/edit?usp=sharing&ouid=103530408176501153858&rtpof=true&sd=true
+
 ## Parte 1
 Aula 13/03
 TOTAL PAGO 
