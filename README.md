@@ -109,6 +109,28 @@ Link da Planilha:
 https://docs.google.com/spreadsheets/d/19GgPP6q3OY1Mqgh1U8EvawFLg7x4GBCM/edit?usp=sharing&ouid=103530408176501153858&rtpof=true&sd=true
 
 
+#Análise de Dados do Ensino Superior em Power BI 📊
+24/04
+
+Desenvolvido como atividade prática para a disciplina de Banco de Dados, este projeto teve como desafio a transformação de dados brutos em insights visuais. A proposta do exercício consistiu na elaboração de um dashboard analítico composto por 3 visualizações principais.
+
+Para a estruturação do projeto, o autor utilizou a base de dados pública "Ensino Superior - Matrículas", disponibilizada pelo Repositório Seade (Fundação Seade).
+
+O dashboard mapeia o cenário educacional paulista e apresenta as seguintes visões estratégicas:
+
+Soma de matrículas por grau acadêmico: destacando a diferença de volume entre os cursos de Bacharelado, Tecnológico e Licenciatura.
+
+Distribuição por modalidade de ensino: comparando a proporção de alunos matriculados no ensino EAD versus o Presencial.
+
+Filtros interativos: implementados para permitir a análise detalhada do perfil dos estudantes por gênero.
+
+O trabalho demonstra a aplicação prática dos conceitos de banco de dados alinhados à visualização de informações para a tomada de decisão.
+
+🔗 Fonte dos dados: Repositório Seade - Ensino Superior
+
+<img width="1600" height="847" alt="5cef9535-5e1d-4ca9-b4c5-c8657a45fc44" src="https://github.com/user-attachments/assets/6519c88d-6d41-4b0b-8b87-d6fe4236c9a0" />
+
+
 
 
 
