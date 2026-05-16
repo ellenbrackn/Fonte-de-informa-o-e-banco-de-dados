@@ -148,20 +148,18 @@ O trabalho demonstra a aplicação prática dos conceitos de banco de dados alin
 
 # 📊 Fonte de Informação e Banco de Dados
 
-Este repositório tem como objetivo reunir e organizar conteúdos relacionados à disciplina de **Fonte de Informação e Banco de Dados**, abordando conceitos, práticas e atividades desenvolvidas ao longo do curso de Gestão da Produção Industrial na Fatec São José dos Campos.
+Bem-vindo! Este espaço foi criado para centralizar e organizar todos os materiais da disciplina de **Fonte de Informação e Banco de Dados**. Aqui, você encontra a base teórica, exercícios práticos e os projetos desenvolvidos durante o curso de Gestão da Produção Industrial da Fatec São José dos Campos.
 
-Aqui você encontrará materiais estruturados por etapas do aprendizado, facilitando a navegação e o acesso aos conteúdos.
+Para facilitar os seus estudos, todo o conteúdo está dividido pelas etapas da disciplina, tornando a busca e a navegação muito mais simples e intuitivas.
 
 ---
 
-## 🎯 Objetivo
+## 🎯 O que buscamos com este repositório:
 
-O principal objetivo deste repositório é:
-
-* **Consolidar** conhecimentos sobre banco de dados e análise de dados.
-* Servir como **material de estudo** e consulta rápida.
-* Organizar as **atividades práticas** e teóricas da disciplina.
-* Demonstrar a **evolução do aprendizado** ao longo do tempo.
+* **Fixar o aprendizado:** Colocar em prática tudo o que foi visto sobre banco de dados.
+* **Facilitar revisões:** Criar um acervo centralizado e rápido para consultas futuras.
+* **Manter a ordem:** Organizar todos os exercícios e projetos em um só lugar.
+* **Registrar o progresso:** Mostrar o passo a passo da evolução técnica ao longo das aulas.
 
 ---
 
@@ -169,14 +167,12 @@ O principal objetivo deste repositório é:
 
 Os conteúdos estão organizados nas seguintes pastas:
 
-### 🔹 P1
+### 🔹 [P1](https://github.com/ellenbrackn/Fonte-de-informa-o-e-banco-de-dados/tree/main/P1)
 Conteúdos, exercícios e materiais referentes à primeira etapa da disciplina.
 
-### 🔹 P2
+### 🔹 [P2](https://github.com/ellenbrackn/Fonte-de-informa-o-e-banco-de-dados/tree/main/P2)
 Conteúdos, exercícios e materiais referentes à segunda etapa da disciplina.
 
-### 🔹 Arquivos
-Bases de dados, planilhas e arquivos complementares utilizados nas aulas.
 
 ---
 
