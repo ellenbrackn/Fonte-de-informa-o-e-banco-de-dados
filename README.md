@@ -1,16 +1,29 @@
 # 📊 Fonte de Informação e Banco de Dados
-Bem-vindo! Este espaço foi criado para centralizar e organizar todos os materiais da disciplina de Fonte de Informação e Banco de Dados. Aqui, você encontra a base teórica, exercícios práticos e os projetos desenvolvidos durante o curso de Gestão da Produção Industrial da Fatec São José dos Campos.
+
+Bem-vindo! Este espaço foi criado para centralizar e organizar todos os materiais da disciplina de **Fonte de Informação e Banco de Dados**. Aqui, você encontra a base teórica, exercícios práticos e os projetos desenvolvidos durante o curso de Gestão da Produção Industrial da Fatec São José dos Campos.
 
 Para facilitar os seus estudos, todo o conteúdo está dividido pelas etapas da disciplina, tornando a busca e a navegação muito mais simples e intuitivas.
 
-# 🎯 O que buscamos com este repositório:
+---
 
-* Fixar o aprendizado: Colocar em prática tudo o que foi visto sobre banco de dados.
-* Facilitar revisões: Criar um acervo centralizado e rápido para consultas futuras.
-* Manter a ordem: Organizar todos os exercícios e projetos em um só lugar.
-* Registrar o progresso: Mostrar o passo a passo da evolução técnica ao longo das aulas.
+## 🎯 O que buscamos com este repositório:
 
+* **Fixar o aprendizado:** Colocar em prática tudo o que foi visto sobre banco de dados.
+* **Facilitar revisões:** Criar um acervo centralizado e rápido para consultas futuras.
+* **Manter a ordem:** Organizar todos os exercícios e projetos em um só lugar.
+* **Registrar o progresso:** Mostrar o passo a passo da evolução técnica ao longo das aulas.
 
+---
+
+## 📁 Estrutura do Repositório
+
+Os conteúdos estão organizados nas seguintes pastas:
+
+### 🔹 [P1](https://github.com/ellenbrackn/Fonte-de-informa-o-e-banco-de-dados/tree/main/P1)
+Conteúdos, exercícios e materiais referentes à primeira etapa da disciplina.
+
+### 🔹 [P2](https://github.com/ellenbrackn/Fonte-de-informa-o-e-banco-de-dados/tree/main/P2)
+Conteúdos, exercícios e materiais referentes à segunda etapa da disciplina.
 
 
 ## Apresentação pessoal em equipe usando o software Canva e Kahoot
@@ -143,52 +156,6 @@ O trabalho demonstra a aplicação prática dos conceitos de banco de dados alin
 🔗 Fonte dos dados: Dasos Abertos SP - Educação - Ensino Superior (https://repositorio.seade.gov.br/dataset/educacao-do-ensino-superior)
 
 <img width="1600" height="847" alt="5cef9535-5e1d-4ca9-b4c5-c8657a45fc44" src="https://github.com/user-attachments/assets/6519c88d-6d41-4b0b-8b87-d6fe4236c9a0" />
-
-
-
-# 📊 Fonte de Informação e Banco de Dados
-
-Bem-vindo! Este espaço foi criado para centralizar e organizar todos os materiais da disciplina de **Fonte de Informação e Banco de Dados**. Aqui, você encontra a base teórica, exercícios práticos e os projetos desenvolvidos durante o curso de Gestão da Produção Industrial da Fatec São José dos Campos.
-
-Para facilitar os seus estudos, todo o conteúdo está dividido pelas etapas da disciplina, tornando a busca e a navegação muito mais simples e intuitivas.
-
----
-
-## 🎯 O que buscamos com este repositório:
-
-* **Fixar o aprendizado:** Colocar em prática tudo o que foi visto sobre banco de dados.
-* **Facilitar revisões:** Criar um acervo centralizado e rápido para consultas futuras.
-* **Manter a ordem:** Organizar todos os exercícios e projetos em um só lugar.
-* **Registrar o progresso:** Mostrar o passo a passo da evolução técnica ao longo das aulas.
-
----
-
-## 📁 Estrutura do Repositório
-
-Os conteúdos estão organizados nas seguintes pastas:
-
-### 🔹 [P1](https://github.com/ellenbrackn/Fonte-de-informa-o-e-banco-de-dados/tree/main/P1)
-Conteúdos, exercícios e materiais referentes à primeira etapa da disciplina.
-
-### 🔹 [P2](https://github.com/ellenbrackn/Fonte-de-informa-o-e-banco-de-dados/tree/main/P2)
-Conteúdos, exercícios e materiais referentes à segunda etapa da disciplina.
-
-
----
-
-## 📈 Estudos Realizados & Análises Práticas
-
-### 1. Regressão Linear Simples (Consumo de Cerveja vs. Temperatura Média)
-Desenvolvimento de um modelo preditivo utilizando Python no Google Colab para analisar o impacto da temperatura no consumo.
-
-* **Variável Independente ($X$):** `Temperatura Media (C)` — Atua como a causa ou fator explicativo.
-* **Variável Dependente ($y$):** `Consumo de cerveja (litros)` — O efeito ou resultado que queremos prever.
-
-#### 🛠️ Tratamento de Dados Obrigatório:
-Como a base original continha dados no formato regional (ex: `27,3` com vírgula), foi necessário realizar a conversão de texto para número decimal utilizando o padrão do Python (ponto):
-```python
-df['Temperatura Media (C)'] = df['Temperatura Media (C)'].astype(str).str.replace(',', '.').astype(float)
-
 
 
 
