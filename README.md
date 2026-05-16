@@ -40,6 +40,10 @@ Conteúdos, exercícios e materiais referentes à segunda etapa da disciplina.
 * Banco de Dados Relacional
 * Organização de Informação
 
+* 👤 Autor
+Desenvolvido por ellenbrackn
+
+
 ## Apresentação pessoal em equipe usando o software Canva e Kahoot
 apresentação foi realizada com o software canva e com o kahoot, formando uma apresentação interativa 
 https://www.canva.com/design/DAHB3Lsc9Mo/Lh4Q0jVrY9Z0s0OwBM3usg/edit?utm_content=DAHB3Lsc9Mo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
