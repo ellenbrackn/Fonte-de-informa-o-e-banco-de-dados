@@ -40,7 +40,7 @@ Conteúdos, exercícios e materiais referentes à segunda etapa da disciplina.
 * Banco de Dados Relacional
 * Organização de Informação
 
-* 👤 Autor
+## 👤 Autor
 Desenvolvido por ellenbrackn
 
 
