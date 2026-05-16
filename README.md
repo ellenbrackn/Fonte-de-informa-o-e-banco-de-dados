@@ -1,3 +1,17 @@
+#📊 Fonte de Informação e Banco de Dados
+Bem-vindo! Este espaço foi criado para centralizar e organizar todos os materiais da disciplina de Fonte de Informação e Banco de Dados. Aqui, você encontra a base teórica, exercícios práticos e os projetos desenvolvidos durante o curso de Gestão da Produção Industrial da Fatec São José dos Campos.
+
+Para facilitar os seus estudos, todo o conteúdo está dividido pelas etapas da disciplina, tornando a busca e a navegação muito mais simples e intuitivas.
+
+#🎯 O que buscamos com este repositório:
+
+Fixar o aprendizado: Colocar em prática tudo o que foi visto sobre banco de dados.
+Facilitar revisões: Criar um acervo centralizado e rápido para consultas futuras.
+Manter a ordem: Organizar todos os exercícios e projetos em um só lugar.
+Registrar o progresso: Mostrar o passo a passo da evolução técnica ao longo das aulas.
+
+
+
 # Fonte-de-informa-o-e-banco-de-dados
 disciplina ministrada no primeiro semestre CST GPI
 ## Apresentação pessoal em equipe usando o software Canva e Kahoot
