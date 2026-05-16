@@ -146,7 +146,52 @@ O trabalho demonstra a aplicação prática dos conceitos de banco de dados alin
 
 
 
+# 📊 Fonte de Informação e Banco de Dados
 
+Este repositório tem como objetivo reunir e organizar conteúdos relacionados à disciplina de **Fonte de Informação e Banco de Dados**, abordando conceitos, práticas e atividades desenvolvidas ao longo do curso de Gestão da Produção Industrial na Fatec São José dos Campos.
+
+Aqui você encontrará materiais estruturados por etapas do aprendizado, facilitando a navegação e o acesso aos conteúdos.
+
+---
+
+## 🎯 Objetivo
+
+O principal objetivo deste repositório é:
+
+* **Consolidar** conhecimentos sobre banco de dados e análise de dados.
+* Servir como **material de estudo** e consulta rápida.
+* Organizar as **atividades práticas** e teóricas da disciplina.
+* Demonstrar a **evolução do aprendizado** ao longo do tempo.
+
+---
+
+## 📁 Estrutura do Repositório
+
+Os conteúdos estão organizados nas seguintes pastas:
+
+### 🔹 P1
+Conteúdos, exercícios e materiais referentes à primeira etapa da disciplina.
+
+### 🔹 P2
+Conteúdos, exercícios e materiais referentes à segunda etapa da disciplina.
+
+### 🔹 Arquivos
+Bases de dados, planilhas e arquivos complementares utilizados nas aulas.
+
+---
+
+## 📈 Estudos Realizados & Análises Práticas
+
+### 1. Regressão Linear Simples (Consumo de Cerveja vs. Temperatura Média)
+Desenvolvimento de um modelo preditivo utilizando Python no Google Colab para analisar o impacto da temperatura no consumo.
+
+* **Variável Independente ($X$):** `Temperatura Media (C)` — Atua como a causa ou fator explicativo.
+* **Variável Dependente ($y$):** `Consumo de cerveja (litros)` — O efeito ou resultado que queremos prever.
+
+#### 🛠️ Tratamento de Dados Obrigatório:
+Como a base original continha dados no formato regional (ex: `27,3` com vírgula), foi necessário realizar a conversão de texto para número decimal utilizando o padrão do Python (ponto):
+```python
+df['Temperatura Media (C)'] = df['Temperatura Media (C)'].astype(str).str.replace(',', '.').astype(float)
 
 
 
