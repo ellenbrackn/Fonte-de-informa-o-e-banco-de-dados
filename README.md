@@ -25,6 +25,20 @@ Conteúdos, exercícios e materiais referentes à primeira etapa da disciplina.
 ### 🔹 [P2](https://github.com/ellenbrackn/Fonte-de-informa-o-e-banco-de-dados/tree/main/P2)
 Conteúdos, exercícios e materiais referentes à segunda etapa da disciplina.
 
+---
+
+## 📚 Tecnologias e Conceitos
+
+<p align="left">
+  <img src="https://cdn.pixabay.com/photo/2022/01/30/13/33/github-6980894_1280.png" width="40" height="40" alt="GitHub" />
+  <img src="https://data.fsu.edu/sites/default/files/Power%20BI%20Icon.png" width="40" height="40" alt="Power BI" />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSD4lkgTaFtjkK6L66jnBQtI4tL57CmU_vhzA&s" width="40" height="40" alt="Excel" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Google_Sheets_2020_logo.svg" width="40" height="40" alt="Google Sheets" />
+</p>
+
+* Modelagem de Dados
+* Banco de Dados Relacional
+* Organização de Informação
 
 ## Apresentação pessoal em equipe usando o software Canva e Kahoot
 apresentação foi realizada com o software canva e com o kahoot, formando uma apresentação interativa 
