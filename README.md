@@ -176,4 +176,22 @@ O trabalho demonstra a aplicação prática dos conceitos de banco de dados alin
 <img width="1600" height="847" alt="5cef9535-5e1d-4ca9-b4c5-c8657a45fc44" src="https://github.com/user-attachments/assets/6519c88d-6d41-4b0b-8b87-d6fe4236c9a0" />
 
 
+# Prova Banco de dados e fontes de informação
+
+Video (gravação de tela)
+https://github.com/user-attachments/assets/e44c963b-1f16-4540-bf86-196150ada4f5
+
+Excel a)
+[nupcilidade.xlsx](https://github.com/user-attachments/files/28414171/nupcilidade.xlsx)
+
+Imagem Dashboard
+<img width="1305" height="750" alt="Captura de tela 2026-05-29 212341" src="https://github.com/user-attachments/assets/253d434f-b18f-4f0e-ae1a-e1b7f54fab70" />
+
+
+
+
+
+
+
+
 
