@@ -152,10 +152,11 @@ Funções utilizadas – PROCV – CONT.SE - CONT.SES
 Link da Planilha:
 https://docs.google.com/spreadsheets/d/19GgPP6q3OY1Mqgh1U8EvawFLg7x4GBCM/edit?usp=sharing&ouid=103530408176501153858&rtpof=true&sd=true
 
+# 📅 23/04/2026 – Elaboração de análise de banco de dados no Power BI referente aos gastos do município de São Paulo.
+<img width="1257" height="717" alt="a768ce59-9411-4957-af9e-ea34e53f2997" src="https://github.com/user-attachments/assets/a073080d-a757-44e7-b57c-4fa6e7d405f6" />
 
 
-# Análise de Dados do Ensino Superior em Power BI 📊
-24/04
+# 📅 24/04/2026 - Análise de Dados do Ensino Superior em Power BI 📊
 
 Desenvolvido como atividade prática para a disciplina de Banco de Dados, este projeto teve como desafio a transformação de dados brutos em insights visuais. A proposta do exercício consistiu na elaboração de um dashboard analítico composto por 3 visualizações principais.
 
