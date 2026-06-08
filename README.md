@@ -47,7 +47,7 @@ Desenvolvido por ellenbrackn
 ## Apresentação pessoal em equipe usando o software Canva e Kahoot
 apresentação foi realizada com o software canva e com o kahoot, formando uma apresentação interativa 
 https://www.canva.com/design/DAHB3Lsc9Mo/Lh4Q0jVrY9Z0s0OwBM3usg/edit?utm_content=DAHB3Lsc9Mo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
-<img width="1199" height="670" alt="image" src="https://github.com/user-attachments/assets/0af66583-0e21-4458-b239-23148792406c" /> 
+<img width="50%" height="670" alt="image" src="https://github.com/user-attachments/assets/0af66583-0e21-4458-b239-23148792406c" /> 
 
 # Apresentação Latifa
 Resumo do Projeto: Noiva Imperial
@@ -200,6 +200,7 @@ Fonte: https://www.kaggle.com/datasets/saliltirodkar/ice-cream-sales-analysis-te
 
 
 # 📅 15/05/2026 – Análise de Regressão Linear Simples da base Beer Consumption utilizando Excel e Google Colab
+Pelo site https://www.kaggle.com/datasets/dongeorge/beer-consumption-sao-paulo foi utilizado para analisar as colunas de Temperatura Média pelo consumo de cerveja
 ## 1) Excel
 
 <img width="1600" height="690" alt="71e5828f-5fca-4957-8f60-a9e88a66387f" src="https://github.com/user-attachments/assets/771936e6-b4ba-4646-9b7c-62c7761eb114" />
@@ -209,7 +210,8 @@ Fonte: https://www.kaggle.com/datasets/saliltirodkar/ice-cream-sales-analysis-te
 
 
 # 📅 22/05/2026 Elaboração do Dashboard para a P1
-<img width="1280" height="716" alt="2db5ae9e-b8e5-400d-a370-f67eec858b06" src="https://github.com/user-attachments/assets/868464ce-0e41-437d-a6c3-6aab5339eedd" />
+Utilizando os conjuntos de dados "Ice Cream Revenue" e "Beer Consumption in São Paulo", foi desenvolvido um dashboard para análise dos dados e realização de um estudo comparativo, com o objetivo de avaliar a influência da temperatura sobre o consumo de cerveja e a receita obtida com a venda de sorvetes.
+<img width="50%" height="716" alt="2db5ae9e-b8e5-400d-a370-f67eec858b06" src="https://github.com/user-attachments/assets/868464ce-0e41-437d-a6c3-6aab5339eedd" />
 
 # Certificado de curso "Criando Trabalhos Acadêmicos com Ferramentas Digitais"
 <img width="900" height="699" alt="47ef83d1-96e5-499f-a8d6-aa0042fe7873" src="https://github.com/user-attachments/assets/438684b7-4033-4710-b3d9-1e501428b14e" />
