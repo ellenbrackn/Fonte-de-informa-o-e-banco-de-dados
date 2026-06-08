@@ -152,6 +152,13 @@ Funções utilizadas – PROCV – CONT.SE - CONT.SES
 Link da Planilha:
 https://docs.google.com/spreadsheets/d/19GgPP6q3OY1Mqgh1U8EvawFLg7x4GBCM/edit?usp=sharing&ouid=103530408176501153858&rtpof=true&sd=true
 
+
+# PORTIFOLIO 2
+
+# 📅 23/04/2026 Certificado de curso PowerBI
+<img width="1067" height="751" alt="c6ae36be-6e09-4add-aad3-6394eacb17af" src="https://github.com/user-attachments/assets/c22d6c3e-7ff3-4553-b36f-736e980babbb" />
+
+
 # 📅 23/04/2026 – Elaboração de análise de banco de dados no Power BI referente aos gastos do município de São Paulo.
 <img width="1257" height="717" alt="a768ce59-9411-4957-af9e-ea34e53f2997" src="https://github.com/user-attachments/assets/a073080d-a757-44e7-b57c-4fa6e7d405f6" />
 
@@ -218,7 +225,9 @@ Fonte: https://www.kaggle.com/datasets/saliltirodkar/ice-cream-sales-analysis-te
 # 📅 22/05/2026 Elaboração do Dashboard para a P1
 <img width="1280" height="716" alt="2db5ae9e-b8e5-400d-a370-f67eec858b06" src="https://github.com/user-attachments/assets/868464ce-0e41-437d-a6c3-6aab5339eedd" />
 
-
+# Certificado de curso "Criando Trabalhos Acadêmicos com Ferramentas Digitais"
+<img width="1067" height="751" alt="c6ae36be-6e09-4add-aad3-6394eacb17af" src="https://github.com/user-attachments/assets/74dfb246-0fa8-4865-b88a-da86a6225b3b" />
+<img width="1020" height="699" alt="47ef83d1-96e5-499f-a8d6-aa0042fe7873" src="https://github.com/user-attachments/assets/438684b7-4033-4710-b3d9-1e501428b14e" />
 
 
 
