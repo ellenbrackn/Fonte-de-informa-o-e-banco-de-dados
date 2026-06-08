@@ -158,20 +158,7 @@ https://docs.google.com/spreadsheets/d/19GgPP6q3OY1Mqgh1U8EvawFLg7x4GBCM/edit?us
 
 # 📅 24/04/2026 - Análise de Dados do Ensino Superior em Power BI 📊
 
-Desenvolvido como atividade prática para a disciplina de Banco de Dados, este projeto teve como desafio a transformação de dados brutos em insights visuais. A proposta do exercício consistiu na elaboração de um dashboard analítico composto por 3 visualizações principais.
-
-Para a estruturação do projeto, o autor utilizou a base de dados pública "Ensino Superior - Matrículas", disponibilizada pelo Repositório Seade (Fundação Seade).
-
-O dashboard mapeia o cenário educacional paulista e apresenta as seguintes visões estratégicas:
-
-Soma de matrículas por grau acadêmico: destacando a diferença de volume entre os cursos de Bacharelado, Tecnológico e Licenciatura.
-
-Distribuição por modalidade de ensino: comparando a proporção de alunos matriculados no ensino EAD versus o Presencial.
-
-Filtros interativos: implementados para permitir a análise detalhada do perfil dos estudantes por gênero.
-
-O trabalho demonstra a aplicação prática dos conceitos de banco de dados alinhados à visualização de informações para a tomada de decisão.
-
+Utilização da base de dados "Ensino Superior – Matrículas" da Fundação SEADE para desenvolvimento de arquivo com substituição de dados por ícones, relacionamento de campos para inserção de imagens e criação de três visualizações de dados para análise das informações
 🔗 Fonte dos dados: Dasos Abertos SP - Educação - Ensino Superior (https://repositorio.seade.gov.br/dataset/educacao-do-ensino-superior)
 
 <img width="1600" height="847" alt="5cef9535-5e1d-4ca9-b4c5-c8657a45fc44" src="https://github.com/user-attachments/assets/6519c88d-6d41-4b0b-8b87-d6fe4236c9a0" />
@@ -190,7 +177,33 @@ Imagem Dashboard
 
 [[https://github.com/user-attachments/assets/c0b662d5-59d9-4e52-ba7f-999757105d56]
 
-# 15/05/2026 – Análise de Regressão Linear Simples da base Beer Consumption utilizando Excel e Google Colab
+# 📅 08/05/2026 – Power BI – Painel de Dados de Empregos Formais
+
+Nesta atividade, foi utilizada uma base de dados abertos do Estado de São Paulo para o desenvolvimento de um dashboard no Power BI contendo informações sobre empregos formais. Após a construção do painel, foram realizadas análises exploratórias com o objetivo de responder às seguintes questões:
+
+- Em qual ano e mês foi registrado o menor saldo de movimentação de empregos formais?
+- Em qual ano e mês foi registrado o maior saldo de movimentação de empregos formais?
+- Em qual ano a média do saldo de movimentação apresentou valor superior a zero?
+
+A atividade envolveu a importação, tratamento e modelagem dos dados, além da criação de visualizações que permitiram identificar tendências e padrões relacionados à movimentação do mercado de trabalho formal.
+<img width="1316" height="738" alt="e8456829-3877-43da-91bb-dd2c3b8bea9b" src="https://github.com/user-attachments/assets/af4a9f9a-3d21-4d9e-a5cd-fd310dee999d" />
+### 📊 Análise do Painel de Empregos Formais - Estado de São Paulo
+
+* **📉 Menor Saldo de Movimentação:**
+  * **Mês:** **Dezembro (mês 12)** — Registrou a menor média histórica isolada com **-21,36**, além de uma queda acentuada no saldo total.
+  * **Ano:** **2020** — Foi o ano com o desempenho mais baixo, sendo o único a ficar com a média anual abaixo de zero.
+
+* **📈 Maior Saldo de Movimentação:**
+  * **Mês:** **Fevereiro (mês 2)** — Apresentou o maior pico de contratações, liderando com uma média de **13,28**.
+  * **Ano:** **2021** — Registrou o maior pico de crescimento tanto no gráfico de média anual quanto no de saldo total acumulado.
+
+* **✅ Anos com Média de Movimentação Superior a Zero:**
+  * A média apresentou valores positivos nos anos de: **2021, 2022, 2023, 2024, 2025 e 2026**.
+  * *Observação:* O ano de **2020** foi o único período com saldo médio negativo.
+  
+
+
+# 📅 15/05/2026 – Análise de Regressão Linear Simples da base Beer Consumption utilizando Excel e Google Colab
 ## 1) Excel
 
 <img width="1600" height="690" alt="71e5828f-5fca-4957-8f60-a9e88a66387f" src="https://github.com/user-attachments/assets/771936e6-b4ba-4646-9b7c-62c7761eb114" />
