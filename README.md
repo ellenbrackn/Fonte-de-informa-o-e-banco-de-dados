@@ -190,7 +190,17 @@ Imagem Dashboard
 
 [[https://github.com/user-attachments/assets/c0b662d5-59d9-4e52-ba7f-999757105d56]
 
+# 15/05/2026 – Análise de Regressão Linear Simples da base Beer Consumption utilizando Excel e Google Colab
+## 1) Excel
 
+<img width="1600" height="690" alt="71e5828f-5fca-4957-8f60-a9e88a66387f" src="https://github.com/user-attachments/assets/771936e6-b4ba-4646-9b7c-62c7761eb114" />
+
+## 2) Colab
+<img width="857" height="668" alt="964ba5de-edde-42b1-829b-53daa2ba66c7" src="https://github.com/user-attachments/assets/72fef243-b4d6-4d81-b029-22bc38212baa" />
+
+
+# 📅 22/05/2026 Elaboração do Dashboard para a P1
+<img width="1280" height="716" alt="2db5ae9e-b8e5-400d-a370-f67eec858b06" src="https://github.com/user-attachments/assets/868464ce-0e41-437d-a6c3-6aab5339eedd" />
 
 
 
