@@ -212,8 +212,7 @@ Fonte: https://www.kaggle.com/datasets/saliltirodkar/ice-cream-sales-analysis-te
 <img width="1280" height="716" alt="2db5ae9e-b8e5-400d-a370-f67eec858b06" src="https://github.com/user-attachments/assets/868464ce-0e41-437d-a6c3-6aab5339eedd" />
 
 # Certificado de curso "Criando Trabalhos Acadêmicos com Ferramentas Digitais"
-<img width="1067" height="751" alt="c6ae36be-6e09-4add-aad3-6394eacb17af" src="https://github.com/user-attachments/assets/74dfb246-0fa8-4865-b88a-da86a6225b3b" />
-<img width="1020" height="699" alt="47ef83d1-96e5-499f-a8d6-aa0042fe7873" src="https://github.com/user-attachments/assets/438684b7-4033-4710-b3d9-1e501428b14e" />
+<img width="900" height="699" alt="47ef83d1-96e5-499f-a8d6-aa0042fe7873" src="https://github.com/user-attachments/assets/438684b7-4033-4710-b3d9-1e501428b14e" />
 
 # Prova Banco de dados e fontes de informação
 
