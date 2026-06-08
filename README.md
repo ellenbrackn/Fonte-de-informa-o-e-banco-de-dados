@@ -54,8 +54,8 @@ Resumo do Projeto: Noiva Imperial
 
 Esta pesquisa consistiu no planejamento e estruturação completa do traje e beleza nupcial para a cliente Latifa, utilizando a metodologia Scrum para garantir a entrega de um produto de alto luxo que equilibra tradição e conforto.
 
-<img width="1341" height="666" alt="59e4515f-cbd6-40f0-82b3-24798c45c2ea" src="https://github.com/user-attachments/assets/effc0e69-80fe-414f-be19-3dbb6d5e52a2" />
-<img width="1336" height="666" alt="cbec0d88-6710-4091-be7b-5bbba3cec5e5" src="https://github.com/user-attachments/assets/ad399b8a-97bc-4c85-affb-9b18cface73a" />
+<img width="50%" height="666" alt="59e4515f-cbd6-40f0-82b3-24798c45c2ea" src="https://github.com/user-attachments/assets/effc0e69-80fe-414f-be19-3dbb6d5e52a2" />
+<img width="50%" height="666" alt="cbec0d88-6710-4091-be7b-5bbba3cec5e5" src="https://github.com/user-attachments/assets/ad399b8a-97bc-4c85-affb-9b18cface73a" />
 
 Link Canva Apresentação completa
 https://canva.link/lef877609qbisme
@@ -114,7 +114,7 @@ Coluna (F) adiciona Mês
 Função =mes(intervalo) 
 
 # Certificado Curso Python Fundamental I 
-<img width="895" height="609" alt="2ca4ece5-0903-4c44-a78f-9e92c8b35d81" src="https://github.com/user-attachments/assets/e02da570-bab5-499f-a80c-2d98d954e267" />
+<img width="50%" height="609" alt="2ca4ece5-0903-4c44-a78f-9e92c8b35d81" src="https://github.com/user-attachments/assets/e02da570-bab5-499f-a80c-2d98d954e267" />
 
 
 ## Análise Dados Abertos São Paulo
@@ -146,8 +146,8 @@ Fonte de dados
 https://dadosabertos.sp.gov.br/dataset/eventos-de-sinistro
 08/2025
 
-<img width="903" height="321" alt="8665f8dd-3828-43c4-bbc2-b74ed92c56cd" src="https://github.com/user-attachments/assets/04e0cc93-fb66-4319-bd06-94b25e4f59c2" />
-<img width="874" height="710" alt="c6416217-0a24-4300-8e6c-f89e4d46135c" src="https://github.com/user-attachments/assets/098e76b0-0a5d-4062-9ab5-f9931ca07f3e" />
+<img width="50%" height="321" alt="8665f8dd-3828-43c4-bbc2-b74ed92c56cd" src="https://github.com/user-attachments/assets/04e0cc93-fb66-4319-bd06-94b25e4f59c2" />
+<img width="50%" height="710" alt="c6416217-0a24-4300-8e6c-f89e4d46135c" src="https://github.com/user-attachments/assets/098e76b0-0a5d-4062-9ab5-f9931ca07f3e" />
 Funções utilizadas – PROCV – CONT.SE - CONT.SES 
 Link da Planilha:
 https://docs.google.com/spreadsheets/d/19GgPP6q3OY1Mqgh1U8EvawFLg7x4GBCM/edit?usp=sharing&ouid=103530408176501153858&rtpof=true&sd=true
@@ -156,7 +156,7 @@ https://docs.google.com/spreadsheets/d/19GgPP6q3OY1Mqgh1U8EvawFLg7x4GBCM/edit?us
 # PORTIFOLIO 2
 
 # 📅 23/04/2026 Certificado de curso PowerBI
-<img width="1067" height="751" alt="c6ae36be-6e09-4add-aad3-6394eacb17af" src="https://github.com/user-attachments/assets/c22d6c3e-7ff3-4553-b36f-736e980babbb" />
+<img width="50%" height="751" alt="c6ae36be-6e09-4add-aad3-6394eacb17af" src="https://github.com/user-attachments/assets/c22d6c3e-7ff3-4553-b36f-736e980babbb" />
 
 
 # 📅 23/04/2026 – Elaboração de análise de banco de dados no Power BI referente aos gastos do município de São Paulo.
@@ -214,7 +214,7 @@ Utilizando os conjuntos de dados "Ice Cream Revenue" e "Beer Consumption in São
 <img width="50%" height="716" alt="2db5ae9e-b8e5-400d-a370-f67eec858b06" src="https://github.com/user-attachments/assets/868464ce-0e41-437d-a6c3-6aab5339eedd" />
 
 # Certificado de curso "Criando Trabalhos Acadêmicos com Ferramentas Digitais"
-<img width="900" height="699" alt="47ef83d1-96e5-499f-a8d6-aa0042fe7873" src="https://github.com/user-attachments/assets/438684b7-4033-4710-b3d9-1e501428b14e" />
+<img width="50%" height="699" alt="47ef83d1-96e5-499f-a8d6-aa0042fe7873" src="https://github.com/user-attachments/assets/438684b7-4033-4710-b3d9-1e501428b14e" />
 
 # Prova Banco de dados e fontes de informação
 
