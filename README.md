@@ -202,7 +202,8 @@ A atividade envolveu a importação, tratamento e modelagem dos dados, além da 
   * *Observação:* O ano de **2020** foi o único período com saldo médio negativo.
     
 # 📅 14/05/2026 Regressão Linear apartir do Excel 
-<img width="500" height="705" alt="cef65112-2890-4a65-b315-13094127eeb4" src="https://github.com/user-attachments/assets/fe887cef-fd84-4d53-9673-d7f1bb89aa06" />
+Fonte: https://www.kaggle.com/datasets/saliltirodkar/ice-cream-sales-analysis-temperature-and-weather 
+<img width="680" height="705" alt="cef65112-2890-4a65-b315-13094127eeb4" src="https://github.com/user-attachments/assets/fe887cef-fd84-4d53-9673-d7f1bb89aa06" />
 
 
 # 📅 15/05/2026 – Análise de Regressão Linear Simples da base Beer Consumption utilizando Excel e Google Colab
@@ -211,7 +212,7 @@ A atividade envolveu a importação, tratamento e modelagem dos dados, além da 
 <img width="1600" height="690" alt="71e5828f-5fca-4957-8f60-a9e88a66387f" src="https://github.com/user-attachments/assets/771936e6-b4ba-4646-9b7c-62c7761eb114" />
 
 ## 2) Colab
-<img width="500" height="668" alt="964ba5de-edde-42b1-829b-53daa2ba66c7" src="https://github.com/user-attachments/assets/72fef243-b4d6-4d81-b029-22bc38212baa" />
+<img width="800" height="668" alt="964ba5de-edde-42b1-829b-53daa2ba66c7" src="https://github.com/user-attachments/assets/72fef243-b4d6-4d81-b029-22bc38212baa" />
 
 
 # 📅 22/05/2026 Elaboração do Dashboard para a P1
