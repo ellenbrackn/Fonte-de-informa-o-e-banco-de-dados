@@ -170,20 +170,6 @@ Utilização da base de dados "Ensino Superior – Matrículas" da Fundação SE
 
 <img width="1600" height="847" alt="5cef9535-5e1d-4ca9-b4c5-c8657a45fc44" src="https://github.com/user-attachments/assets/6519c88d-6d41-4b0b-8b87-d6fe4236c9a0" />
 
-
-# Prova Banco de dados e fontes de informação
-
-Video (gravação de tela)
-https://github.com/user-attachments/assets/fb7170d1-076f-4324-980c-ce94d1677888
-
-Excel a)
-[nupcilidade.xlsx](https://github.com/user-attachments/files/28414171/nupcilidade.xlsx)
-
-Imagem Dashboard
-<img width="1305" height="750" alt="Captura de tela 2026-05-29 212341" src="https://github.com/user-attachments/assets/253d434f-b18f-4f0e-ae1a-e1b7f54fab70" />
-
-[[https://github.com/user-attachments/assets/c0b662d5-59d9-4e52-ba7f-999757105d56]
-
 # 📅 08/05/2026 – Power BI – Painel de Dados de Empregos Formais
 
 Nesta atividade, foi utilizada uma base de dados abertos do Estado de São Paulo para o desenvolvimento de um dashboard no Power BI contendo informações sobre empregos formais. Após a construção do painel, foram realizadas análises exploratórias com o objetivo de responder às seguintes questões:
@@ -229,5 +215,17 @@ Fonte: https://www.kaggle.com/datasets/saliltirodkar/ice-cream-sales-analysis-te
 <img width="1067" height="751" alt="c6ae36be-6e09-4add-aad3-6394eacb17af" src="https://github.com/user-attachments/assets/74dfb246-0fa8-4865-b88a-da86a6225b3b" />
 <img width="1020" height="699" alt="47ef83d1-96e5-499f-a8d6-aa0042fe7873" src="https://github.com/user-attachments/assets/438684b7-4033-4710-b3d9-1e501428b14e" />
 
+# Prova Banco de dados e fontes de informação
+
+Video (gravação de tela)
+https://github.com/user-attachments/assets/fb7170d1-076f-4324-980c-ce94d1677888
+
+Excel a)
+[nupcilidade.xlsx](https://github.com/user-attachments/files/28414171/nupcilidade.xlsx)
+
+Imagem Dashboard
+<img width="1305" height="750" alt="Captura de tela 2026-05-29 212341" src="https://github.com/user-attachments/assets/253d434f-b18f-4f0e-ae1a-e1b7f54fab70" />
+
+[[https://github.com/user-attachments/assets/c0b662d5-59d9-4e52-ba7f-999757105d56]
 
 
