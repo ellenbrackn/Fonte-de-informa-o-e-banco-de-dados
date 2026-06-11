@@ -228,7 +228,7 @@ Pelo site https://www.kaggle.com/datasets/dongeorge/beer-consumption-sao-paulo f
 <img width="800" height="668" alt="964ba5de-edde-42b1-829b-53daa2ba66c7" src="https://github.com/user-attachments/assets/72fef243-b4d6-4d81-b029-22bc38212baa" />
 
 
-# 📅 22/05/2026 Elaboração do Dashboard para a P1
+# 📅 22/05/2026 Elaboração do Dashboard 
 Utilizando os conjuntos de dados "Ice Cream Revenue" e "Beer Consumption in São Paulo", foi desenvolvido um dashboard para análise dos dados e realização de um estudo comparativo, com o objetivo de avaliar a influência da temperatura sobre o consumo de cerveja e a receita obtida com a venda de sorvetes.
 <img width="50%" height="716" alt="2db5ae9e-b8e5-400d-a370-f67eec858b06" src="https://github.com/user-attachments/assets/868464ce-0e41-437d-a6c3-6aab5339eedd" />
 
