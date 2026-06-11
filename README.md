@@ -155,7 +155,7 @@ https://docs.google.com/spreadsheets/d/19GgPP6q3OY1Mqgh1U8EvawFLg7x4GBCM/edit?us
 
 # PORTIFOLIO 2
 
-# 📆 17/04/2026P anorama dos Sinistros de Trânsito no Estado de São Paulo – Fevereiro de 2026
+# 📆 17/04/2026 Panorama dos Sinistros de Trânsito no Estado de São Paulo – Fevereiro de 2026
 Ainda utilizando uma base de dados de domínio público do Estado de São Paulo, desta vez com foco no eixo de Transporte e Veículos, realizou-se uma análise dos sinistros de trânsito registrados no estado durante o mês de fevereiro de 2026. A partir da construção de um dashboard interativo, foi possível identificar a distribuição geográfica das ocorrências, a relação entre o tipo de via e a gravidade das lesões, bem como o perfil das vítimas em termos de faixa etária e sexo.
 <img width="1277" height="716" alt="75b309ae-7321-478d-9d97-17d4dcb4d1d9" src="https://github.com/user-attachments/assets/4f079d83-aa06-4e74-967e-aed35491cb2a" />
 Perguntas respondidas: 
@@ -213,7 +213,7 @@ A atividade envolveu a importação, tratamento e modelagem dos dados, além da 
   * A média apresentou valores positivos nos anos de: **2021, 2022, 2023, 2024, 2025 e 2026**.
   * *Observação:* O ano de **2020** foi o único período com saldo médio negativo.
     
-# 📅 14/05/2026 Regressão Linear apartir do Excel 
+# 📅 14/05/2026 Regressão Linear a partir do Excel 
 Fonte: https://www.kaggle.com/datasets/saliltirodkar/ice-cream-sales-analysis-temperature-and-weather 
 <img width="680" height="705" alt="cef65112-2890-4a65-b315-13094127eeb4" src="https://github.com/user-attachments/assets/fe887cef-fd84-4d53-9673-d7f1bb89aa06" />
 
