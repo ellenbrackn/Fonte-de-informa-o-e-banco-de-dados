@@ -155,6 +155,25 @@ https://docs.google.com/spreadsheets/d/19GgPP6q3OY1Mqgh1U8EvawFLg7x4GBCM/edit?us
 
 # PORTIFOLIO 2
 
+# 📆 17/04/2026P anorama dos Sinistros de Trânsito no Estado de São Paulo – Fevereiro de 2026
+Ainda utilizando uma base de dados de domínio público do Estado de São Paulo, desta vez com foco no eixo de Transporte e Veículos, realizou-se uma análise dos sinistros de trânsito registrados no estado durante o mês de fevereiro de 2026. A partir da construção de um dashboard interativo, foi possível identificar a distribuição geográfica das ocorrências, a relação entre o tipo de via e a gravidade das lesões, bem como o perfil das vítimas em termos de faixa etária e sexo.
+<img width="1277" height="716" alt="75b309ae-7321-478d-9d97-17d4dcb4d1d9" src="https://github.com/user-attachments/assets/4f079d83-aa06-4e74-967e-aed35491cb2a" />
+Perguntas respondidas: 
+
+*** 1. Quais municípios concentram a maior ocorrência de sinistros de trânsito?**
+
+O município de São Paulo apresentou o maior número de sinistros, seguido por Guarulhos, Campinas, Sorocaba e Santo André.
+
+*** 2. Qual a relação entre o tipo de via e a gravidade das lesões registradas?**
+
+As vias urbanas concentraram a maior parte dos sinistros e das lesões registradas. Em todos os tipos de via, as lesões leves foram predominantes.
+
+*** 3. Quais grupos etários e sexos apresentam maior participação nos sinistros analisados?**
+
+O sexo masculino apresentou maior participação nos sinistros, principalmente entre indivíduos de 18 a 34 anos.
+
+
+
 # 📅 23/04/2026 Certificado de curso PowerBI
 <img width="50%" height="751" alt="c6ae36be-6e09-4add-aad3-6394eacb17af" src="https://github.com/user-attachments/assets/c22d6c3e-7ff3-4553-b36f-736e980babbb" />
 
