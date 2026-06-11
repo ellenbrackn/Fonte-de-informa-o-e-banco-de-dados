@@ -41,7 +41,7 @@ Conteúdos, exercícios e materiais referentes à segunda etapa da disciplina.
 * Organização de Informação
 
 ## 👤 Autor
-Desenvolvido por ellenbrackn
+Desenvolvido por Ellen Rodrigues
 
 
 ## Apresentação pessoal em equipe usando o software Canva e Kahoot
