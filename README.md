@@ -44,22 +44,6 @@ Conteúdos, exercícios e materiais referentes à segunda etapa da disciplina.
 Desenvolvido por Ellen Rodrigues
 
 
-## Apresentação pessoal em equipe usando o software Canva e Kahoot
-apresentação foi realizada com o software canva e com o kahoot, formando uma apresentação interativa 
-https://www.canva.com/design/DAHB3Lsc9Mo/Lh4Q0jVrY9Z0s0OwBM3usg/edit?utm_content=DAHB3Lsc9Mo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
-<img width="50%" height="670" alt="image" src="https://github.com/user-attachments/assets/0af66583-0e21-4458-b239-23148792406c" /> 
-
-# Apresentação Latifa
-Resumo do Projeto: Noiva Imperial
-
-Esta pesquisa consistiu no planejamento e estruturação completa do traje e beleza nupcial para a cliente Latifa, utilizando a metodologia Scrum para garantir a entrega de um produto de alto luxo que equilibra tradição e conforto.
-
-<img width="50%" height="666" alt="59e4515f-cbd6-40f0-82b3-24798c45c2ea" src="https://github.com/user-attachments/assets/effc0e69-80fe-414f-be19-3dbb6d5e52a2" />
-<img width="50%" height="666" alt="cbec0d88-6710-4091-be7b-5bbba3cec5e5" src="https://github.com/user-attachments/assets/ad399b8a-97bc-4c85-affb-9b18cface73a" />
-
-Link Canva Apresentação completa
-https://canva.link/lef877609qbisme
-
 ## PRIMEIRA AULA SOBRE EXCEL - FUNÇÃO PROCV
 [balancete_receitA ELLEN (1).xlsx](https://github.com/user-attachments/files/25808358/balancete_receitA.ELLEN.1.xlsx)
 
