@@ -44,17 +44,19 @@ Conteúdos, exercícios e materiais referentes à segunda etapa da disciplina.
 Desenvolvido por Ellen Rodrigues
 
 
+# PORTFÓLIO 1 / P1
+
 ## PRIMEIRA AULA SOBRE EXCEL - FUNÇÃO PROCV
 [balancete_receitA ELLEN (1).xlsx](https://github.com/user-attachments/files/25808358/balancete_receitA.ELLEN.1.xlsx)
 
 Link da Planilha:
 https://docs.google.com/spreadsheets/d/1uP_r-rYfDjyD1qI1zBxbyocQB90kiBaZ/edit?usp=sharing&ouid=103530408176501153858&rtpof=true&sd=true
 
-# Fornecedores
+## Fornecedores
 
 Link da Planilha: https://docs.google.com/spreadsheets/d/17rmi1crS4jDAAqQfCHkDT8JoXSM7H82w/edit?usp=sharing&ouid=103530408176501153858&rtpof=true&sd=true
 
-# Segunda AULA SOBRE EXCEL - FUNÇÃO Somase e Cont.se
+## Segunda AULA SOBRE EXCEL - FUNÇÃO Somase e Cont.se
 (https://github.com/ellenbrackn/Fonte-de-informa-o-e-banco-de-dados/blob/main/ellen_excel13_03.xlsx)
 
 Link da Planilha: https://docs.google.com/spreadsheets/d/1ZpljOuOGfOKVB07FGDrGjGRKQM4DByy-/edit?usp=sharing&ouid=103530408176501153858&rtpof=true&sd=true
